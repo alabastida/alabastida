@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alabastida
 - 👀 I’m interested in FrontEnd development
-- 🌱 I code in Vue 2/3 and Svelte
+- 🌱 I code in Vue 2/3, React and Svelte
 - 📫 How to reach me: adrianlabastida.com
 
 <!---
