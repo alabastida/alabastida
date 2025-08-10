@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @alabastida
-- 👀 I’m interested in FrontEnd development
-- 🌱 I code in Vue 2/3, React and Svelte
+- 👋 Hi, I’m Adrian
+- 👀 I’m interested in all kinds of software development
 - 📫 How to reach me: adrianlabastida.com
 
 <!---
